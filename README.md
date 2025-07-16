@@ -106,7 +106,7 @@
 ## 📄 Resume
 
 <div align="center">
-  <a href="[https://drive.google.com/file/d/YOUR_RESUME_FILE_ID/view](https://drive.google.com/file/d/1Gg-7ZdpykjtpoFftn2uAXN00A9ZI-t2M/view?usp=sharing)" target="_blank">
+  <a href="https://drive.google.com/file/d/YOUR_RESUME_FILE_ID/view](https://drive.google.com/file/d/1Gg-7ZdpykjtpoFftn2uAXN00A9ZI-t2M/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_Download_Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </div>
