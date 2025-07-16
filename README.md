@@ -1,7 +1,7 @@
 # 🚀 Hi there, I'm Prateek Kumar! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Java+%26+Python+Specialist;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=600&lines=Front+end+Developer;AI+%26+Machine+Learning+Enthusiast;Java+%26+Python+Specialist;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
